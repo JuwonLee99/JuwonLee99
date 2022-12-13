@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 |Study|Language|Contents|Date|
 |------|---|---|---|
-|PythonProgramming|테스트2|테스트3|2022.12.13|
+|[PythonProgramming](https://github.com/JuwonLee99/python_practice.git)|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">|테스트3|2022.12.13|

@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎒Programming Study 
--------------------------
+### <U>🎒Programming Study</U> 
 |Study|Language|Contents|Date|
 |:---------:|:----:|:----:|:----:|
 |[PythonProgramming](https://github.com/JuwonLee99/python_practice.git)|<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>|기초 문법|2022.12.13 ~|
